@@ -9,11 +9,11 @@
 
 ---
 ## Packages
-test1
 
-| Matplotlib|Pandas|SciPy|NumPy|Seaborn|
-|---|---|---|---|---|
-|<img src="assets/matplotlib2.png" width="30" alt="Matplotlib icon" title="Matplotlib" align="">| <img src="assets/pandas.png" height="30" alt="Pandas icon" title="Pandas">| <img src="assets/scipy_logo.png" width="30" height="30">|<img src="assets/numpy_logo.png" width="70" height="" align="left">|<img src="assets/seaborn.png" width="80" height="25">
+
+| Matplotlib|Pandas|SciPy|NumPy|Seaborn|Plotly|
+|---|---|---|---|---|---|
+|<img src="assets/matplotlib2.png" width="30" alt="Matplotlib icon" title="Matplotlib" align="">| <img src="assets/pandas.png" height="30" alt="Pandas icon" title="Pandas">| <img src="assets/scipy_logo.png" width="30" height="30">|<img src="assets/numpy_logo.png" width="70" height="" align="left">|<img src="assets/seaborn.png" width="80" height="25">|<img src="assets/Plotly-logo.png" width="70" align="left">
 
 
 ---
