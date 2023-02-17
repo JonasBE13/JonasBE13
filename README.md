@@ -8,6 +8,15 @@
 <img src="assets/linkedIn-icon.png" width="20"> [LinkedIn](https://www.linkedin.com/in/jonas-bengtstr%C3%B6m-74108524a)
 
 ---
+## Packages
+test1
+
+| Matplotlib|Pandas|SciPy|NumPy|Seaborn|
+|---|---|---|---|---|
+|<img src="assets/matplotlib2.png" width="30" alt="Matplotlib icon" title="Matplotlib" align="">| <img src="assets/pandas.png" height="30" alt="Pandas icon" title="Pandas">| <img src="assets/scipy_logo.png" width="30" height="30">|<img src="assets/numpy_logo.png" width="70" height="" align="left">|<img src="assets/seaborn.png" width="80" height="25">
+
+
+---
 
 ## GitHub portfolio :briefcase:
 
