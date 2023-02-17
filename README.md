@@ -1,8 +1,11 @@
 
 # Jonas Bengtström 
-
 <img src="assets/linkedIn-icon.png" width="20"> [LinkedIn](https://www.linkedin.com/in/jonas-bengtstr%C3%B6m-74108524a)
 
+---
+* :books:Studying to become a data engineer/scientist/AI-devloper.
+* :computer:Currently working on machine learning.
+* :metal:Passions; being active, working out, Formula 1 and programming. 
 ---
 ## Packages that I've worked with:
 
