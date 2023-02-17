@@ -1,14 +1,10 @@
 
-<img src="assets/profilbild.png" width="250" align="">
-
-
-
 # Jonas Bengtström 
 
 <img src="assets/linkedIn-icon.png" width="20"> [LinkedIn](https://www.linkedin.com/in/jonas-bengtstr%C3%B6m-74108524a)
 
 ---
-## Packages
+## Packages that I've worked with:
 
 
 | Matplotlib|Pandas|SciPy|NumPy|Seaborn|Plotly|scikit-learn|
@@ -52,5 +48,6 @@ This is a selection of deployed applications, in which I have none. Hopefully th
 ## Contact me :iphone:
 
 - [![linkedIn icon](assets/linkedIn-icon.png): LinkedIn][linkedin]
+- :e-mail: jonasbengtstrom@gmail.com
 
 [linkedin]: https://www.linkedin.com/in/jonas-bengtstr%C3%B6m-74108524a/
