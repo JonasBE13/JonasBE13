@@ -1,5 +1,5 @@
 
-<img src="assets/profilbild.png" width="250">
+<img src="assets/profilbild.png" width="250" align="">
 
 
 
@@ -13,7 +13,7 @@
 
 | Matplotlib|Pandas|SciPy|NumPy|Seaborn|Plotly|scikit-learn|
 |---|---|---|---|---|---|---|
-|<img src="assets/matplotlib2.png" width="30" alt="Matplotlib icon" title="Matplotlib" align="">| <img src="assets/pandas.png" height="30" alt="Pandas icon" title="Pandas">| <img src="assets/scipy_logo.png" width="30" height="30" title="scipy">|<img src="assets/numpy_logo.png" width="70" height="" align="left" title="numpy">|<img src="assets/seaborn.png" width="80" height="25" title="seaborn">|<img src="assets/Plotly-logo.png" width="70" align="left" title="plotly">|<img src="assets/scikitlearn.png" width="60" title="scikit-learn">
+|<img src="assets/tutorial_matplotlib.png" width="75" height="30" alt="Matplotlib icon" title="Matplotlib" align="">| <img src="assets/pandas.png" height="30" alt="Pandas icon" title="Pandas">| <img src="assets/scipy_logo.png" width="30" height="30" title="scipy">|<img src="assets/numpy_logo.png" width="70" height="" align="left" title="numpy">|<img src="assets/seaborn.png" width="80" height="25" title="seaborn">|<img src="assets/Plotly-logo.png" width="70" align="left" title="plotly">|<img src="assets/scikitlearn.png" width="60" height="30" title="scikit-learn">
 
 
 ---
