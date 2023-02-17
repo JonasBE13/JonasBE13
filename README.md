@@ -7,7 +7,7 @@
 * :computer:Currently working on machine learning.
 * :metal:Passions; being active, working out, Formula 1 and programming. 
 ---
-## Packages that I've closely worked with:
+## Packages that I've worked closely with:
 
 
 | Matplotlib|Pandas|SciPy|NumPy|Seaborn|Plotly|scikit-learn|
